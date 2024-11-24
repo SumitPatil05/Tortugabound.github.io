@@ -559,7 +559,7 @@ var contactForm = function () {
 		 var $submit = $(".submitting"),
 		   waitText = "Submitting...";
 		 const serviceID = "service_vozmyh8"; // Replace with your EmailJS service ID
-		 const templateID = "template_hpvupke"; // Replace with your EmailJS template ID
+		 const templateID = "template_dvp79gr"; // Replace with your EmailJS template ID
 		 const publicKey = "CZj0QvfWlwF3ybtuM"; // Replace with your EmailJS public key
  
 		 $submit.css("display", "block").text(waitText);
@@ -670,3 +670,4 @@ var animateReveal = function() {
    }
 
 }
+
